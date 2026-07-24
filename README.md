@@ -1,1 +1,2 @@
-# Plant-desease-detection-using-AI
+# AI-Projects-Portfolio
+This repo will be my ai hub
